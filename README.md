@@ -3,4 +3,4 @@ My name is Norbert Makula. I am a hobby developer. Currently, I am learning C++ 
 
 
 ### My projects
-- [ancovens' calculator](ancovens.github.io/calc)
+- [ancovens' calculator](https://ancovens.github.io/calc)
