@@ -1,2 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: ancovens/cayman
+github:
+  is_project_page: false
 title: Norbert Makula
