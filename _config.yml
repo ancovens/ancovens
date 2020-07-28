@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: false
 title: Norbert Makula
+description: Enthusiastic newbie
 
 google_analytics: UA-173719050-1
